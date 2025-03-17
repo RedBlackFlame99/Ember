@@ -3,3 +3,7 @@ version: '1.0.0.0'
 main: devv.rbfz.ember.EmberPlugin
 api-version: '1.21'
 authors: [ RedTheDev ]
+
+commands:
+  ember:
+    description: Main command for Ember.
