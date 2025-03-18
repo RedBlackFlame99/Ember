@@ -1,0 +1,12 @@
+
+#    ███████╗███╗░░░███╗██████╗░███████╗██████╗░
+#    ██╔════╝████╗░████║██╔══██╗██╔════╝██╔══██╗
+#    █████╗░░██╔████╔██║██████╦╝█████╗░░██████╔╝
+#    ██╔══╝░░██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗
+#    ███████╗██║░╚═╝░██║██████╦╝███████╗██║░░██║
+#    ╚══════╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
+
+# Modify this if you would like to speed up the stats for /ember stats
+# Modifying this is not recommended, depending on how low the value is; could cause more data usage.
+# Requires restart
+stats-bossbars-refresh-time: 20

@@ -32,7 +32,7 @@ public class ServerStats {
 
     public String memoryFormatted(long memory) {
         ByteUnit unit = ByteUnit.MEGABYTES;
-        long result = unit.convert(memory, unit);
+        long result = ByteUnit.convert(memory, unit);
         return (result + unit.getSuffix());
     }
 
